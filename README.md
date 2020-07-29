@@ -1,7 +1,7 @@
 # stocks
 Stocks analysis with Kappa PC
 
-<img src="./capture.jpg" height="250px" />
+<img src="./images/capture.jpg" height="250px" />
 
 Expert System Developed in Kappa Pc to analyse the trend based on two experts.
 The sistem analise the trend, the strong of it and volatility of the prices of stocks.
@@ -13,14 +13,14 @@ the strong of the trend and volatility to make recomendations.
 
 The expert system has 107 rules and 33 functions developed.
 
-<img src="./capture.jpg" height="250px" />
+<img src="./images/capture2.jpg" height="250px" />
 
 
 # Steps
 
 1) Charge stocks prices from file (Cargar Cotizaciones)
 
-<img src="./images/step1.jpg" height="250px" />
+<img src="./images/step1.jpg" />
 
 
 2) Choose a Stock and charge last 30 stock prices to work only with that period (Últimas 30 cotizaciones)
