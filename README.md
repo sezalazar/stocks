@@ -1,5 +1,5 @@
-# stocks
-Stocks analysis with Kappa PC
+# Stocks analysis with Kappa PC
+
 
 <img src="./images/capture.jpg" height="250px" />
 
